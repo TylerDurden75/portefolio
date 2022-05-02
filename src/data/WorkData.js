@@ -1,6 +1,16 @@
 export const Work = [
   {
     id: 1,
+    name: "Nextflix",
+    description:
+      "Netflix clone built with NextJS fetching data from google-api3, using magic-sdk for login and storing data on Hasura-GraphQL",
+    tags: ["hasura-GraphQL", "vercel", "react", "nodeJS", "magic-sdk", "jwt"],
+
+    demo: "https://nextflix-two.vercel.app",
+    github: "https://github.com/TylerDurden75/Netflix-clone-nextJS",
+  },
+  {
+    id: 2,
     name: "E-Commerce App",
     description:
       "Built with MERN stack. Including authentication, searching and filtering, payment method. Admin and client Dashboard. And many more features to discover...",

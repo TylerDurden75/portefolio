@@ -4,7 +4,15 @@ export const Work = [
     name: "Nextflix",
     description:
       "Netflix clone built with NextJS fetching data from google-api3, using magic-sdk for login and storing data on Hasura-GraphQL",
-    tags: ["hasura-GraphQL", "vercel", "react", "nodeJS", "magic-sdk", "jwt"],
+    tags: [
+      "hasura-GraphQL",
+      "nextJS",
+      "vercel",
+      "react",
+      "nodeJS",
+      "magic-sdk",
+      "jwt",
+    ],
 
     demo: "https://nextflix-two.vercel.app",
     github: "https://github.com/TylerDurden75/Netflix-clone-nextJS",
